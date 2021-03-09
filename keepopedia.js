@@ -1,1 +1,1 @@
-location.href='https://keepopedia.blogspot.com/'
+var _0x5744=["\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6B\x65\x65\x70\x6F\x70\x65\x64\x69\x61\x2E\x62\x6C\x6F\x67\x73\x70\x6F\x74\x2E\x63\x6F\x6D\x2F"];var _0xfedd=[_0x5744[0],_0x5744[1]];var _0x5fe7=[_0xfedd[0],_0xfedd[1]];var _0xcc39=[_0x5fe7[0],_0x5fe7[1]];var _0x892b=[_0xcc39[0],_0xcc39[1]];var _0x59f3=[_0x892b[0],_0x892b[1]];var _0x63d2=[_0x59f3[0],_0x59f3[1]];location[_0x63d2[0]]= _0x63d2[1]
